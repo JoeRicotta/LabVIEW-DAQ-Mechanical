@@ -11,7 +11,7 @@ Meant to record headfixed mice locomoting freely on a ball.
 
 ## 2. _PCO_squeeze_puff_pupil_FLIR_trig_
 The main VI is within the '_main_' folder (_PCO_squeeze_puff_pupil_FLIR_trig_2024_JMR.vi_).
-Meant to record headfixed, anesthetized mice using the mechanical squeeze.
+Meant to record headfixed, anesthetized mice undergoing mechanical compression of the abdomen.
 
 ## 3. _PCO_whisker_puff_pupil_FLIR_trig_
 The main VI is within the '_main_' folder (_PCO_whisker_puff_pupil_FLIR_trig_2024_JMR.vi_).
